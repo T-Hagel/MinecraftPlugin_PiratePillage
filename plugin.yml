@@ -1,0 +1,9 @@
+name: PiratePillage
+version: 0.1
+main: me.lightfall.piratePillage.Main
+author: Lightfall
+description: Pirate Pillage
+commands:
+    pp:
+    party:
+    main:
